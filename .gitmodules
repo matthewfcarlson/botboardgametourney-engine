@@ -1,0 +1,3 @@
+[submodule "bots"]
+	path = bots
+	url = https://github.com/matthewfcarlson/botboardgametourney-bots.git
